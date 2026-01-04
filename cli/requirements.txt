@@ -1,0 +1,17 @@
+# Planetary Neuron CLI Dependencies
+# Install: pip install -r requirements.txt
+
+# BLE communication
+bleak>=0.21.1
+
+# CLI framework
+click>=8.1.7
+
+# Pretty terminal output
+rich>=13.7.0
+
+# Async support
+asyncio-throttle>=1.0.2
+
+# Data serialization
+msgpack>=1.0.7
